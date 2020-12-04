@@ -1,2 +1,2 @@
-# RS1
-Assignment 1
+# Readers-Scoop
+ACM Assignment 1
